@@ -1,5 +1,4 @@
 # Ford GoBike Data Exploration
-## by Olga Gabdulkhakova
 
 ## Dataset
 
