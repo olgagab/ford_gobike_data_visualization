@@ -1,5 +1,7 @@
 # Ford GoBike Data Exploration
 
+This project is divided into two major parts. In the first part, we'll be conducting an exploratory data analysis using Python data science and data visualization libraries. In the second part, we'll take our main findings from your exploration and convey them through an explanatory analysis. 
+
 ## Dataset
 
 The data consists of information regarding 295,854 Ford GoBike trips from January 2020, 
